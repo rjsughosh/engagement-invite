@@ -1,6 +1,5 @@
 
 import './App.css'
-import bg from './assets/bg.svg';
 import bgBottom from './assets/bg-bottom.png';
 import bgTop from './assets/bg-top.png';
 import './index.css';
