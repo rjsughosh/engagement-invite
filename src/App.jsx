@@ -25,7 +25,7 @@ function App() {
         </div>
 
         <div className='name1'>
-          SHRUSTHI UMARJI
+          SUGHOSH JAHAGIRDAR
         </div>
 
         <div className='icon1'>
@@ -33,7 +33,7 @@ function App() {
         </div>
 
         <div className='name2'>
-          SUGHOSH JAHAGIRDAR
+          SHRUSTHI UMARJI
         </div>
 
         <div className='on'>
