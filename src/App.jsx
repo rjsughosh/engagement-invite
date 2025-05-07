@@ -2,6 +2,8 @@
 import './App.css'
 import bgBottom from './assets/bg-bottom.png';
 import bgTop from './assets/bg-top.png';
+import icon1 from './assets/icon1.png';
+
 import './index.css';
 
 function App() {
@@ -24,6 +26,10 @@ function App() {
 
         <div className='name1'>
           SHRUSTHI UMARJI
+        </div>
+
+        <div className='icon1'>
+          <img src={icon1} alt="Icon" className='icon1img' />
         </div>
 
         <div className='name2'>
